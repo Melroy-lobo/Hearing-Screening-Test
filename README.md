@@ -34,9 +34,6 @@ This tool isn’t a medical diagnosis — but it can be your first step toward b
 # Clone the repository
 git clone https://github.com/Melroy-lobo/Hearing-Screening-Test.git
 
-# Navigate into the folder
-cd hearing-screening-test
-
 # Install dependencies (if applicable)
 pip install -r requirements.txt
 
